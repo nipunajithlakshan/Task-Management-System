@@ -27,11 +27,15 @@ Make sure the following are installed on your machine:
 - Git
 ---
 
+
 ### 📁 Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/task-manager.git
 cd Task-Management-System
+```
+###1️⃣ Backend Setup
+```bash
 cd backend
 npm install
 ```
@@ -48,6 +52,17 @@ jfhsajfjdjja
 ## In your terminal
 ```bash
 npm start
+```
+###2️⃣ Frontend Setup
+```bash
+cd ../frontend
+npm install
+```
+###📦 Run the Frontend
+```bash
+npm start
+
+
 
 
 
