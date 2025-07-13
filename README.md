@@ -61,6 +61,7 @@ npm install
 ###📦 Run the Frontend
 ```bash
 npm start
+```
 
 
 
