@@ -35,3 +35,14 @@ cd Task-Management-System
 cd backend
 npm install
 
+### 📁 Create .env
+In your servr folder create .env file and copy and past flowing environment variables
+
+```bash
+NODE_ENV="local"
+PORT=3001
+
+MONGODB_URI = mongodb+srv://nipunajith235:12345@cluster0.bkhbgyh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+JWT_SECRET = akjfhsajfjdjja
+
